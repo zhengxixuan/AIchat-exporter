@@ -1,5 +1,6 @@
 # Chrome Extension: AI Chat Exporter
 
+[](https://github.com/zhengxixuan/AIchat-exporter/edit/main/image.png)
 This extension saves your current AI chat conversation as a local file (Markdown, JSON, or TXT). It exists solely to help you export transcripts from ChatGPT, Claude, Gemini, and Grok.
 
 ## Privacy & Data Policy
